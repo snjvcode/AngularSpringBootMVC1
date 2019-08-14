@@ -15,7 +15,7 @@ Single page <i>Angular</i> application to list all employees. User can access mo
   
  <li><p>2. mvn compile</p></li>
 
-<li><p>3. mvn spring-boot:run </p></li>
+<li><p>3. mvn spring-boot:run </p></li></ul>
 
 
 <br/>
@@ -28,5 +28,4 @@ Single page <i>Angular</i> application to list all employees. User can access mo
                  
   <li><p>4.  Go to http://localhost:4200</p></li></ul>
   <br/>
-  
- 
+***Code can be received on request at free of cost***
